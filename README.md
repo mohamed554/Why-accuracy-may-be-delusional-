@@ -6,7 +6,7 @@
 ## Setup
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/mohamed554/Why-accuracy-may-be-delusional-.git
 cd why-accuracy-may-be-delusional
 pip install -r requirements.txt
 ```
