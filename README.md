@@ -10,7 +10,7 @@ cd why-accuracy-may-be-delusional
 pip install -r requirements.txt
 ```
 
-## Download Dataset
+## Download [Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset/data)
 
 ```bash
 python download_data.py
