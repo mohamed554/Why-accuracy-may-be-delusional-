@@ -1,8 +1,7 @@
 # Why Accuracy May Be Delusional
 
 **Notebook:** `why-accuracy-may-be-delusional.ipynb`  
-**Description:** An exploration of why using raw accuracy for model evaluation can be misleading, with alternative metric.
-
+**Description:** An exploration of why using raw accuracy for model evaluation can be misleading at imbalanced datasets(with alternative metric).
 ## Setup
 
 ```bash
