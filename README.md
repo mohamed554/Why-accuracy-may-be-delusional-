@@ -1,7 +1,7 @@
 # Why Accuracy May Be Delusional
 
 **Notebook:** `why-accuracy-may-be-delusional.ipynb`  
-**Description:** An exploration of why using raw accuracy for model evaluation can be misleading, with alternative metrics and visualizations.
+**Description:** An exploration of why using raw accuracy for model evaluation can be misleading, with alternative metric.
 
 ## Setup
 
@@ -30,3 +30,5 @@ jupyter notebook
 ```
 
 Open `why-accuracy-may-be-delusional.ipynb` and run all cells.
+OR
+you can view/run this [Kaggle link](https://www.kaggle.com/code/mohamedtaher131/why-accuracy-may-be-delusional)
